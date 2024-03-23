@@ -1,11 +1,11 @@
 <link rel="shortcut icon" type="image/png" 
       href="{{ "https://github.com/betheme-pro/betheme-pro.github.io/blob/main/betheme_icon.png?raw=true"  | absolute_url }}">
 
-# Download BeTheme Wordpress Theme for Free
+# Download BeTheme Nulled for Free
 
 ![BeTheme WordPress Theme](https://github.com/betheme-pro/betheme-pro.github.io/blob/main/betheme-wordpress-theme.jpg?raw=true)
 
-This repository provides access to download BeTheme PRO for free. BeTheme Pro is a highly customizable WordPress theme known for its versatility and powerful features. In this guide, we will walk you through the steps to download BeTheme Pro without any cost. Let's get started!
+This repository provides access to download BeTheme PRO for free (nulled with clean files). BeTheme Pro is a highly customizable WordPress theme known for its versatility and powerful features. In this guide, we will walk you through the steps to download BeTheme Pro without any cost. Let's get started!
 
 [![Download BeTheme](https://github.com/betheme-pro/betheme-pro.github.io/blob/main/button.png?raw=true)](https://bitbucket.org/wp-assets/wordpress-themes/downloads/betheme.zip)
 
