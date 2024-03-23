@@ -1,11 +1,3 @@
----
-title: "Download BeTheme Nulled for Free"
-author: "MuffinGroup"
----
-
-<link rel="shortcut icon" type="image/png" 
-      href="{{ "https://github.com/betheme-pro/betheme-pro.github.io/blob/main/betheme_icon.png?raw=true"  | absolute_url }}">
-
 # Download BeTheme Nulled for Free
 
 ![BeTheme WordPress Theme](https://github.com/betheme-pro/betheme-pro.github.io/blob/main/betheme-wordpress-theme.jpg?raw=true)
